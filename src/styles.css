@@ -1,0 +1,33 @@
+html,
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  font-family: sans-serif;
+  display: table-cell;
+  font-size: 20pt;
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #000000;
+}
+
+td {
+  border: 1px solid #000000;
+  border-collapse: border;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  font: "Helvetica";
+  font-size: 30px;
+}
+
+.q {
+  width: 20pt;
+  height: 20pt;
+}
